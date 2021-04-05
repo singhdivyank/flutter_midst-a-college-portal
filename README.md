@@ -1,8 +1,8 @@
 # flutter_midst-a-college-portal
-[App apk](https://drive.google.com/file/d/1vlTUJaBLy-GUs83-EM-3f9rVWW_ptIbp/view?usp=sharing)
 The flutter version of [Midst-a college portal](https://www.github.com/singhdivyank/Midst---a-college-portal). All the features of the orignal app have been retained.
-
 **However the video in miscellaneous section has not been incorporated**
+
+[App apk](https://drive.google.com/file/d/1vlTUJaBLy-GUs83-EM-3f9rVWW_ptIbp/view?usp=sharing)
 
 # App User Interface
 
